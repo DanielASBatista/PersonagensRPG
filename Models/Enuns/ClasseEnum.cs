@@ -6,6 +6,6 @@ namespace rpgApi.Models.Enuns
 
         Mago=2,
 
-        Clérigo=3
+        Clerigo=3
     }
 }
