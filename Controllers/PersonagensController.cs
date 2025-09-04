@@ -2,7 +2,6 @@ using rpgApi.Models;
 using rpgApi.Models.Enuns;
 using Microsoft.AspNetCore.Mvc;
 
-
 namespace rpgApi.Controllers
 {
     [ApiController]
@@ -64,25 +63,5 @@ namespace rpgApi.Controllers
             personagens.Add(novoPersonagem);
             return Ok(personagens);
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
